@@ -66,3 +66,13 @@ form input.operator {
   color: white;
   font-size: 2.5rem;
 }
+
+.display {
+  width: 100%;
+  display: flex;
+}
+
+#display {
+  width: 90%;
+  margin: auto;
+}
